@@ -1,4 +1,4 @@
-# Telegram Bots Book
+# Telegram Bots Book 
 
 [![master](https://github.com/TelegramBots/book/actions/workflows/ci.yml/badge.svg)](https://github.com/TelegramBots/book/actions/workflows/ci.yml)
 [![Demo](https://img.shields.io/badge/live-demo-blue.svg?style=flat)](https://telegrambots.github.io/book/)
